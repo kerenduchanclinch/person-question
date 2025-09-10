@@ -9,6 +9,9 @@ function test() {
 
   console.log('person1 BEFORE:', person1);
 
+  // rename Bob => John:
+  // TODO
+
   console.log('person1 AFTER:', person1);
 }
 
