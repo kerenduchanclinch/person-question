@@ -6,7 +6,7 @@ function App() {
 
   return <div>
     <button onClick={test}>Test</button>
-    <RenamePerson />
+    {/* <RenamePerson /> */}
   </div>
 }
 
